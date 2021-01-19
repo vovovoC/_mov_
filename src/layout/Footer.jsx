@@ -6,7 +6,7 @@ export default function Footer() {
     return (
         <footer className="page-footer blue lighten-2">
           <div className="container">
-          © {currentYear} Copyright Text
+          © In {currentYear} has been created
           <a className="grey-text text-lighten-4 right" href="/">More Links</a>
           </div>
       </footer>
